@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Styde.net
+                    Styde.net..
                 </div>
                 
             </div>
